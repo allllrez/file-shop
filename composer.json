@@ -13,7 +13,8 @@
         "laravel/pulse": "^1.0@beta",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
-        "tightenco/ziggy": "^1.0"
+        "tightenco/ziggy": "^1.0",
+        "unisharp/laravel-filemanager": "^2.6"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
