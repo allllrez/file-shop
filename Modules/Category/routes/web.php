@@ -14,6 +14,6 @@ use Modules\Category\app\Http\Controllers\CategoryController;
 |
 */
 
-Route::group([], function () {
-    Route::resource('category', CategoryController::class)->names('category');
-});
+//Route::group([], function () {
+//    Route::resource('category', CategoryController::class)->names('category');
+//});

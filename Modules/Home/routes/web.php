@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Modules\Tag\app\Http\Controllers\TagController;
+use Modules\Home\app\Http\Controllers\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,5 +15,5 @@ use Modules\Tag\app\Http\Controllers\TagController;
 */
 
 //Route::group([], function () {
-//    Route::resource('tag', TagController::class)->names('tag');
+//    Route::resource('home', HomeController::class)->names('home');
 //});
