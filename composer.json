@@ -16,6 +16,7 @@
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
         "nwidart/laravel-modules": "^10.0",
+        "spatie/laravel-permission": "^6.2",
         "tightenco/ziggy": "^1.0",
         "unisharp/laravel-filemanager": "^2.6"
     },
